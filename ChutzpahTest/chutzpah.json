@@ -1,0 +1,9 @@
+﻿{
+	"RootReferencePathMode": "SettingsFileDirectory",
+
+	"Tests": [
+		{ "Include": "*Specs.js" }
+	],
+
+	"FrameworkVersion": "2"
+}
